@@ -1,0 +1,7 @@
+C:\Users\jdpereira\source\repos\treinamentoCOTIN\bin\Debug\treinamentoCOTIN.exe.config
+C:\Users\jdpereira\source\repos\treinamentoCOTIN\bin\Debug\treinamentoCOTIN.exe
+C:\Users\jdpereira\source\repos\treinamentoCOTIN\bin\Debug\treinamentoCOTIN.pdb
+C:\Users\jdpereira\source\repos\treinamentoCOTIN\obj\Debug\treinamentoCOTIN.csproj.AssemblyReference.cache
+C:\Users\jdpereira\source\repos\treinamentoCOTIN\obj\Debug\treinamentoCOTIN.csproj.CoreCompileInputs.cache
+C:\Users\jdpereira\source\repos\treinamentoCOTIN\obj\Debug\treinamentoCOTIN.exe
+C:\Users\jdpereira\source\repos\treinamentoCOTIN\obj\Debug\treinamentoCOTIN.pdb
