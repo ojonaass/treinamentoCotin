@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="blocoTryCatch.cs" />
+    <Compile Include="blocoTryFinally.cs" />
     <Compile Include="Caracteres.cs" />
     <Compile Include="concatenacao.cs" />
     <Compile Include="doWhile.cs" />
@@ -50,6 +52,7 @@
     <Compile Include="estruturaDeControleIfElse.cs" />
     <Compile Include="estruturaRepeticaoFor.cs" />
     <Compile Include="hello.cs" />
+    <Compile Include="inicializaMenuApostila.cs" />
     <Compile Include="instrucaoBreak.cs" />
     <Compile Include="instrucaoContinue.cs" />
     <Compile Include="instrucaoThrow.cs" />

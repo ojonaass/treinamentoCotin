@@ -10,7 +10,8 @@ namespace treinamentoCOTIN
     {
         public static void Welcome()
         {
-            Console.WriteLine("Welcome to C#!");
+            Console.WriteLine("Bem vindo(a) à Apostila de Lógica de Programação com C#" +
+                "!");
         }
     }
 }

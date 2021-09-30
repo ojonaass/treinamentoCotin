@@ -10,7 +10,6 @@ namespace treinamentoCOTIN
     {
         static void Main(string[] args)
         {
-            string a = "______________________________________________";
 
             //EXCEPTIONS THROW
 
@@ -24,6 +23,7 @@ namespace treinamentoCOTIN
                 throw (new ArgumentOutOfRangeException("Utilize uma string somente!"));
             }*/
 
+            inicializaMenuApostila.InicializaMenuApostila();
         }
 
     }
