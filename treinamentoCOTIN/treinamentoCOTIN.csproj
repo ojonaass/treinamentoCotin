@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="blocoTryCatch.cs" />
     <Compile Include="blocoTryFinally.cs" />
+    <Compile Include="calendario.cs" />
     <Compile Include="Caracteres.cs" />
     <Compile Include="concatenacao.cs" />
     <Compile Include="doWhile.cs" />

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Timers;
 
 namespace treinamentoCOTIN
 {
@@ -10,20 +11,8 @@ namespace treinamentoCOTIN
     {
         static void Main(string[] args)
         {
-
-            //EXCEPTIONS THROW
-
-
-            /*if (args.Length == 1)
-            {
-                Console.WriteLine(args[0]);
-            }
-            else
-            {
-                throw (new ArgumentOutOfRangeException("Utilize uma string somente!"));
-            }*/
-
-            inicializaMenuApostila.InicializaMenuApostila();
+            calendario.Calendario();
+            
         }
 
     }
