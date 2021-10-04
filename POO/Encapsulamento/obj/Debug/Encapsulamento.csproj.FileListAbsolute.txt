@@ -1,0 +1,7 @@
+C:\Users\jdpereira\source\repos\POO\Encapsulamento\bin\Debug\Encapsulamento.exe.config
+C:\Users\jdpereira\source\repos\POO\Encapsulamento\bin\Debug\Encapsulamento.exe
+C:\Users\jdpereira\source\repos\POO\Encapsulamento\bin\Debug\Encapsulamento.pdb
+C:\Users\jdpereira\source\repos\POO\Encapsulamento\obj\Debug\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\jdpereira\source\repos\POO\Encapsulamento\obj\Debug\Encapsulamento.exe
+C:\Users\jdpereira\source\repos\POO\Encapsulamento\obj\Debug\Encapsulamento.pdb
+C:\Users\jdpereira\source\repos\POO\Encapsulamento\obj\Debug\Encapsulamento.csproj.AssemblyReference.cache
